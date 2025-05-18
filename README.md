@@ -33,4 +33,4 @@ All settings to be changed are set in app.config file.
 - Set "targetWidth" to the width of the pallet.
 
 #### Database
-Link to the database structure: [Database structure.sql](EvaluatingToolQuery.sql)
+Link to the database structure: [Database structure.sql](https://github.com/Bachelor2025JVTD/PalletTrace/blob/master/Database/QUERY_PALLET_TRACE.sql)
