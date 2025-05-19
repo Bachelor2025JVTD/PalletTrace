@@ -1,7 +1,7 @@
 
 # PalletTrace
 
-The program demonstrates the concept of tracking the position of a pallet using a camera, two RFID antennas, and two receivers.
+The program demonstrates the concept of tracking the position of a pallet using a camera, two RFID tags, and a receiver.
 
 
 
@@ -22,6 +22,7 @@ Hardware devices used:
 - Logitech Carl Zeiss HD c930e 1080p.
 - Parallax 28340 USB 125 kHz. 
 - Two RFID tags of 125 kHz.
+- 3D-printed pallet
 
 
 #### Configuration file
